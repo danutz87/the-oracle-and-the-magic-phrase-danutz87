@@ -1,0 +1,19 @@
+{
+  "name": "the-oracle-and-the-magic-phrase-danutz87",
+  "version": "1.0.0",
+  "description": "[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3761234&assignment_repo_type=AssignmentRepo)\r # The Oracle and the Magic Phrase",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danutz87/the-oracle-and-the-magic-phrase-danutz87.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danutz87/the-oracle-and-the-magic-phrase-danutz87/issues"
+  },
+  "homepage": "https://github.com/danutz87/the-oracle-and-the-magic-phrase-danutz87#readme"
+}
